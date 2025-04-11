@@ -44,7 +44,7 @@ This document outlines the end-to-end test strategy for the **Myntra Mobile Appl
 
 ##  Mind Map of Functionalities
 
-![Myntra Mobile App Mindmap](Link - )
+![Myntra Mobile App Mindmap](Link - Myntra_MindMap.xmind)
 
 ---
 
